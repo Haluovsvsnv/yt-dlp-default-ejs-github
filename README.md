@@ -1,3 +1,9 @@
+# Changelog
+
+- Modified to automatically obtain the latest nightly build version of yt-dlp
+
+---
+
 다운로더 내부의 yt-dlp를 교체하는 플러그인(최신 버전 + 유튜브 JS challenge 자동 적용)
 
 1. 플러그인(스크립트 적용)
